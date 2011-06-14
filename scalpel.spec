@@ -26,7 +26,6 @@ file recovery.
 %build
 %{__aclocal}
 %{__autoconf}
-%{__autoheader}
 %{__automake}
 %configure
 %{__make}
