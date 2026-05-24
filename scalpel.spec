@@ -1,7 +1,7 @@
 Summary:	A Frugal, High Performance File Carver
 Name:		scalpel
 Version:	2.0
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Applications/System
 Source0:	http://www.digitalforensicssolutions.com/Scalpel/%{name}-%{version}.tar.gz
